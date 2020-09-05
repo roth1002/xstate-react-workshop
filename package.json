@@ -7,7 +7,7 @@
     "@storybook/react": "^5.0.10",
     "babel-loader": "^8.0.5",
     "chai": "^4.2.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "react-scripts": "3.0.0",
     "react-testing-library": "^6.1.2"
   },
